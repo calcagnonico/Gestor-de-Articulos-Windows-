@@ -1,0 +1,80 @@
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Main.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.AgregarArticulo.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Borrados.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinal\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Configuracion.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.AgregarArticulo.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Borrados.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Configuracion.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Main.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.dll
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.dll
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.pdb
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.pdb
+C:\Users\calca\OneDrive\Desktop\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.AgregarArticulo.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Borrados.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Configuracion.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Main.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\ultima version\Nueva carpeta (2)\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\Presentacion.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.dll
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\dominio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\bin\Debug\negocio.pdb
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.AgregarArticulo.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Borrados.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Configuracion.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Main.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.exe
+C:\Dropbox\Programacion\Curso C# Nivel 2\Programas VSC\TPFinalNivel2_Calcagno\TPFinalNivel2_Calcagno\Presentacion\obj\Debug\Presentacion.pdb
