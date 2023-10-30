@@ -2,7 +2,7 @@
 
 - Creado como proyecto final del curso de MaxiPrograma C# Nivel 2.
 - Alumno: Nicolás Calcagno
-- Profesor: Maximilian Sar Fernandez
+- Profesor: Maximiliano Sar Fernandez
 
 ## Consigna del trabajo
 Se necesita una aplicación para la gestión de artículos de un catálogo de un comercio. La aplicación debe ser genérica, es decir, aplicar para cualquier tipo de comercio; y la información que en ella se cargue será consumida luego desde distintos servicios para ser mostradas ya sea en webs, e-commerces, apps mobile, revistas, etc. Esto no es parte del desarrollo, pero sí del contexto en el cual se utilizará la aplicación a desarrollar.
